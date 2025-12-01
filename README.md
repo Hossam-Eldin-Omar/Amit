@@ -1,2 +1,3 @@
-# GIZ4_AIS2_S1_ML
-GIZ4_AIS2_S1_ML
+# DEPI Machine Learning Track
+
+This file documents my learning and implementation journey with **DEPI** and **AMIT** in the **Machine Learning** specialization.
